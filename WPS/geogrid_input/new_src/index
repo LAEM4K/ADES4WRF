@@ -1,0 +1,15 @@
+type = continuous
+projection = regular_ll
+missing_value = 0.
+dx = 0.25
+dy = 0.25
+known_x = 1.0
+known_y = 1.0
+known_lat = -89.875
+known_lon = -179.875
+wordsize = 2
+tile_x = 1440
+tile_y = 720
+tile_z = 12
+units="category"
+description="New dust source for WRF (monthly)"
